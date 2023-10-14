@@ -1,7 +1,7 @@
 /* Your existing CSS code remains unchanged */
 
 header {
-    background: url('https://i.imgur.com/1DuhKN7.jpg') center /cover no-repeat fixed;
+    background: url('https://i.imgur.com/1DuhKN7.jpg') center center /cover no-repeat fixed;
     height: 100vh;
     text-align: center;
     color: #fff;
