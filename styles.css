@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background: url('https://img.freepik.com/free-photo/cyberpunk-woman-warrior-portrait_23-2150712612.jpg?t=st=1697282387~exp=1697285987~hmac=c68e53adca2c0439f1647c3183229dee5969c3b3761929fdbe441a343b0b3c24&w=360') center/cover no-repeat;
+    background: url('https://img.freepik.com/free-photo/cyberpunk-woman-warrior-portrait_23-2150712612.jpg?t=st=1697282387~exp=1697285987~hmac=c68e53adca2c0439f1647c3183229dee5969c3b3761929fdbe441a343b0b3c24&w=360') center/cover no-repeat fixed;
     height: 100vh;
     text-align: center;
     color: #fff;
