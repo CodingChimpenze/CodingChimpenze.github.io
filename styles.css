@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background: url('https://i.imgur.com/1DuhKN7.jpg') center/cover no-repeat ;
+    background: url('https://i.imgur.com/1DuhKN7.jpg') center top/cover no-repeat ;
     height: 100vh;
     text-align: center;
     color: #fff;
