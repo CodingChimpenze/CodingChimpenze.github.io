@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: url('C:\Users\ujjwa\Downloads\wepik-export-20231014105256WpnD.png') center/cover no-repeat;
+    height: 100vh;
+    text-align: center;
+    color: #fff;
+    padding: 100px 0;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+.hero {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.hero h2 {
+    font-size: 2em;
+}
+
+.hero p {
+    font-size: 1.2em;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.btn {
+    display: inline-block;
+    background: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+footer {
+    background: #333;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
