@@ -17,7 +17,7 @@ header h1 {
 }
 
 .hero {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.1);
     padding: 50px;
     text-align: center;
     color: #fff;
