@@ -8,6 +8,19 @@ header {
     padding: 100px 0;
 }
 
+@keyframes backgroundChange {
+    0%, 100% {
+        background-image: url('https://www.bing.com/th?id=OUG.0DF267A752C3D491EE0819CC02F82B6C&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0');
+    }
+    33% {
+        background-image: url('https://www.bing.com/th?id=OUG.459D8384B6BC3F847D82AB0C8E1960CE&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0');
+    }
+    66% {
+        background-image: url('https://www.bing.com/th?id=OUG.D9269D8FB5C57BD35DF9C1C0B9D5794E&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0');
+    }
+}
+
+
 /* Typewriter effect style */
 #businessName {
     overflow: hidden;
