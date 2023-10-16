@@ -2,7 +2,7 @@
 
 header {
     background: url('https://i.imgur.com/1DuhKN7.jpg') center center/cover no-repeat fixed;
-     animation: backgroundChange 12s infinite linear;
+     animation: backgroundChange 18s infinite linear;
     height: 100vh;
     text-align: center;
     color: #fff;
@@ -11,13 +11,16 @@ header {
 
 @keyframes backgroundChange {
     0%, 100% {
-        background-image: url('https://www.bing.com/th?id=OUG.0DF267A752C3D491EE0819CC02F82B6C&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0');
+        background-image: url('https://i.imgur.com/1DuhKN7.jpg');
     }
-    33% {
-        background-image: url('https://www.bing.com/th?id=OUG.459D8384B6BC3F847D82AB0C8E1960CE&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0');
+    25% {
+        background-image: url('https://i.imgur.com/N5qcfdj.jpg');
     }
-    66% {
-        background-image: url('https://www.bing.com/th?id=OUG.D9269D8FB5C57BD35DF9C1C0B9D5794E&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0');
+    50% {
+        background-image: url('blob:https://imgur.com/68bfe7e7-dbe4-4e85-a16b-3cb9a73aa1fa');
+    }
+    75% {
+        background-image: url('https://i.imgur.com/L9gCj5k.jpg');
     }
 }
 
