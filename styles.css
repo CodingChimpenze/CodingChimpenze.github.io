@@ -91,3 +91,30 @@ footer {
     padding: 10px 0;
     color: #fff;
 }
+/* styles.css */
+
+/* Your existing styles for larger screens */
+
+/* Media query for screens with a maximum width of 768px (typical for smartphones) */
+@media screen and (max-width: 768px) {
+    header {
+        padding: 50px 0;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    p {
+        font-size: 1rem;
+    }
+    
+    .btn {
+        font-size: 1rem;
+        padding: 8px 16px;
+    }
+    
+    footer {
+        padding: 10px 0;
+    }
+}
