@@ -1,13 +1,13 @@
-/* Your existing CSS code remains unchanged */
+/* styles.css */
 
 header {
     background: url('https://i.imgur.com/1DuhKN7.jpg') center center/cover no-repeat fixed;
     height: 100vh;
     text-align: center;
     color: #fff;
-    padding: 100px 0; 
+    padding: 100px 0;
 }
- 
+
 /* Typewriter effect style */
 #businessName {
     overflow: hidden;
@@ -34,4 +34,43 @@ header {
     50% {
         border-color: white;
     }
+}
+
+/* Updated styling for the content */
+.hero-content {
+    text-align: center;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 0;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #007BFF;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    background: #222;
+    padding: 10px 0;
+    color: #fff;
 }
