@@ -2,6 +2,7 @@
 
 header {
     background: url('https://i.imgur.com/1DuhKN7.jpg') center center/cover no-repeat fixed;
+     animation: backgroundChange 12s infinite linear;
     height: 100vh;
     text-align: center;
     color: #fff;
