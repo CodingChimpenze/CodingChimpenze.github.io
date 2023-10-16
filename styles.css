@@ -118,3 +118,28 @@ footer {
         padding: 10px 0;
     }
 }
+ section.hero {
+        background-color: rgba(0, 0, 0, 0.7); /* Adjust the alpha value for transparency */
+    }
+    
+    .hero-content {
+        padding: 20px;
+    }
+    
+    .btn {
+        background-color: #00f0ff; /* Neon blue background color */
+        color: #fff; /* White text */
+        font-size: 1rem;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    
+    .btn:hover {
+        background-color: #00b0c0; /* Slightly darker blue on hover */
+    }
+    
+    footer {
+        padding: 10px 0;
+    }
+}
