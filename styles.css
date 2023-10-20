@@ -92,7 +92,7 @@ footer {
     }
 }
  section.hero {
-        background-color: rgba(0, 0, 0, 0.7); /* Adjust the alpha value for transparency */
+        background-color: rgba(0, 0, 0, 0.3); /* Adjust the alpha value for transparency */
     }
     
     .hero-content {
