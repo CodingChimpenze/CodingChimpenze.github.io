@@ -30,7 +30,7 @@ header {
 .hero-content {
     text-align: center;
     color: #fff;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.3);
     padding: 20px;
     border-radius: 5px;
 }
@@ -60,7 +60,7 @@ p {
 
 footer {
     text-align: center;
-    background: #222;
+     background-color: rgba(0, 0, 0, 0.5);
     padding: 10px 0;
     color: #fff;
 }
@@ -92,7 +92,7 @@ footer {
     }
 }
  section.hero {
-        background-color: rgba(0, 0, 0, 0.3); /* Adjust the alpha value for transparency */
+        background-color: rgba(0, 0, 0, 0); /* Adjust the alpha value for transparency */
     }
     
     .hero-content {
